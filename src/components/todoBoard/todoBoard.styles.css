@@ -1,0 +1,51 @@
+.board-wrap{
+    display: flex;
+    max-width: 40% ;
+    flex-wrap: wrap;
+    /* background-color: crimson; */
+}
+
+.category{
+    /* background-color: #df10c3; */
+    margin-left: 7px;
+    margin-top: 10px;
+    flex-grow: 1;
+}
+
+.category-card-wrap{
+    display: flex;
+    flex-direction: column;
+    padding: 0px 5px ;
+    background-color: #ebecf0;
+    border-radius: 3px;
+}
+
+.category-card-title{
+    color: #172b4d;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 10px;
+    /* background-color: green; */
+}
+
+.tasks-wrap{
+    padding: 10px;
+}
+
+.tasks{
+    background-color: white;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 3px;
+    margin-bottom: 7px;
+    cursor: pointer;
+}
+
+.drag-bg{
+    background-color: #d9dadb;
+    color: #d9dadb ;
+}
+
+#onDrag{
+    background-color: cyan;
+}
