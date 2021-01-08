@@ -1,4 +1,4 @@
-# Project topic: UI design of a To-do List like Trello with ReactJS
+# Project topic: A To-do List like Trello with ReactJS
 ## features:
 * Three columns include To-do, In Progress and Completed
 * Multiple sample and static tasks in each column
