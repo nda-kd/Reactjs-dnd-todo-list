@@ -1,1 +1,1 @@
-this is a drag and drop todo list with reactjs without any other library
+##Project topic: UI design of a To-do List like Trello with ReactJS
