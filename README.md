@@ -9,4 +9,4 @@
 ![](docs/to-do-list.gif)
 
 ### Installation
-``` $ git clone  ```
+``` $ git clone https://github.com/nda-kd/Reactjs-dnd-todo-list.git ```
