@@ -6,3 +6,6 @@
 
 ### See Demo URL- [Todo List App](https://nda-kd.github.io/Reactjs-dnd-todo-list/)
 ![](docs/to-do-list.gif)
+
+### Installation
+> $ git clone https://github.com/johnsonsirv/todo-list.git
