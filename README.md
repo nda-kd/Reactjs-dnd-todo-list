@@ -5,4 +5,4 @@
 * Moving tasks between columns with the mouse
 
 ### See Demo URL- [Todo List App](https://nda-kd.github.io/Reactjs-dnd-todo-list/)
-![](docs/todo list.gif)
+![](docs/to-do-list.gif)
