@@ -11,5 +11,4 @@
 ### Installation
 ``` 
 $ git clone https://github.com/nda-kd/Reactjs-dnd-todo-list.git
-
 ```
