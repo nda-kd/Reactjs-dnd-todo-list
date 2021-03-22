@@ -1,4 +1,8 @@
 # Project topic: A To-do List like Trello with ReactJS
+This project is a simple to-do list that implements the drag-and-drop feature without the use of external libraries.
+
+#### Technologies include:
+ * Html-css, React, ES6
 ## features:
 * Three columns include To-do, In Progress and Completed
 * Multiple sample and static tasks in each column
